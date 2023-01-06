@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklc_rating"]=self["webpackChunklc_rating"]||[]).push([[469],{5989:function(n,c,t){t.d(c,{Z:function(){return r}});var r=(n,c)=>{const t=n.__vccOpts||n;for(const[r,s]of c)t[r]=s;return t}}}]);

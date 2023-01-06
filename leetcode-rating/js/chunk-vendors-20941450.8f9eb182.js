@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunklc_rating"]=self["webpackChunklc_rating"]||[]).push([[735],{4344:function(n,c,t){t.d(c,{Z:function(){return a}});var u=t(2683),e=t(8955),r=t(9923),a=(0,u.O)([...e.Z,...r.Z])}}]);
